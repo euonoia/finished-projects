@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: poppins, sans-serif;
+    background-color: white;
+}
+h2{
+    margin: 20px 0;
+    margin-left: 5px;
+}
+.bck{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+span{
+    margin: 10px;
+    padding: 12px;
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-container{
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:0 20px 35px rgba(0,0,1,0.9);
+    background-color: #f9f9f9;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+label{
+    margin: 10px 0 5px;
+    font-size: 14px;
+    color: #333;
+}
+.main-spacing{
+    display: flex;
+   justify-self: space-between;
+   margin: 10px;
+   padding: 10px;
+   gap: 80px;
+}
+.spacing{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+input{
+    color: #000000;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #757575;
+    padding-left: 1.5rem;
+    font-size: 15px;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #50749b;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+select{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    font-size: 15px;
+    cursor: pointer;
+}
+option{
+    padding: 10px;
+    font-size: 15px;
+    color: #333;
+}
