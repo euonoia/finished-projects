@@ -1,0 +1,90 @@
+body{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   margin: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.appointment{
+    box-shadow: 0 2px 24px ;
+    padding: 30px;  
+    border-radius: 30px;
+    max-width: 700px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+.col-12{
+    display: flex;
+    flex-direction: column;
+}
+.appointment-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0 2px 24px ;
+    padding: 30px;  
+    border-radius: 30px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 3vh;
+    margin-bottom: 30px;
+}
+h2{
+    text-align: center;
+}
+.appointment form{
+    display: flex;
+    flex-direction: column;
+}
+.appointment input{
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+.appointment button{
+    margin-top:10px;
+  padding: 10px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.appointment-1 button{
+ margin-top:10px;
+ padding: 10px;
+ text-align: center;
+ background-color: #4CAF50;
+ color: white;
+ border: none;
+ border-radius: 5px;
+ cursor: pointer;
+}
+.appointment button:hover{
+    background-color: #45a049;
+}
+.appointment-1 #schedule{
+    display: flex;
+    justify-content: center;
+}
+select{
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+input[type="number"]::-webkit-inner-spin-button{
+    display: none;
+}
+
+.appointment-1 #print form{
+    display: flex;
+}

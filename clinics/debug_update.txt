@@ -1,0 +1,9 @@
+Array
+(
+    [id] => 1
+    [name] => darren
+    [email] => rxcel@gmail.com
+    [phone] => +639226415741
+    [date] => 2025-05-20
+    [doctor_id] => 1
+)
