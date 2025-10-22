@@ -13,11 +13,11 @@ on Parking you can manage parking slots here and show the history audits and can
 Custom colors palette selected:
 I used Blue and White color palette suitable for the eye.
 
-GIF created with LiceCap.
-
 Notes
 Making this web applications at first makes me wonder how am I going to do this. the frustrations I had on my mind when I cannot debug
 a simple problem but as the time goes by it makes it easier for me to debug it. And searching for different kinds of algorithms is so hard
 but now it is manageable.
+
+DOCUMENTED PICTURE ON THIS SYSTEM COMMING SOON SO BUSY!!!
 
 
