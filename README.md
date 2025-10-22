@@ -1,36 +1,33 @@
 
-this all my projects on my college days which is where my skill get enhanced as a web developer and become a Software Engineer!!
+​College Project Portfolio
+​These projects represent the foundation of my skills as a Web Developer and were instrumental in my development as a Software Engineer.
 
+​Functionality Overview
 
-Functionality
-The following required functionality is completed:
+​The following core functionalities were successfully implemented across my projects:
 
-on AxleEye you can compute grades automatically and organize the student each sections
+​1. AxleEye
+​Functionality: Automatically computes student grades and organizes students into their respective sections.
 
-NOTE:
-This is my first web system that also a thesis capstone on my Senior HighSchool days and this is FAR MORE STRESSING TO ME BACK THEN handling both systems and doing research paper but luckily i got someone on my relative really good at this stuffs 
+​Note: This was my first web system and a thesis capstone during Senior High School. It was a highly stressful introduction to managing both system development and research documentation simultaneously.
 
-Clinical you can manage patients and the doctor can give insights on the patients by giving them printed information
+​2. Clinical
+​Functionality: A comprehensive system to manage patients, allowing doctors to provide insights and printable information to patients.
 
-NOTE:
-I made this system while my arms are broken literally FRACTURED! Coding at one hand sounds so aura farming but really this is my turning point that maybe this is what god really want me to do
+​Note: I developed this system while my arm was literally fractured. Coding one-handed was a turning point that solidified my conviction for a career in software engineering.
 
-on Parking you can manage parking slots here and show the history audits and can also compute the total income of the parking
+​3. Parking
+​Functionality: Manages parking slots, displays a history of audits, and computes the total income for the facility.
 
-NOTE:
-Same with this system with a deadline of same finals together with the clinical i code this system while still recovering at my fractured arms but damn i feel so powerfull at making this system I got my momentum turning back my passion on here again
+​Note: This system was developed with the same final exam deadline as Clinical while I was still recovering from my fractured arm. Successfully completing it boosted my confidence and reignited my passion for development.
 
-on Emergency-responce it can send location where is the emergency is and it got working google api have a community etc...
+​4. Emergency-Response
+​Functionality: A system that sends the precise location of an emergency, featuring a working Google API and a community feature.
 
-Notes:
-we both have on the critical scenario with this third year student because my system AxleEye did not pass to one of our professor so he had this system and I look at it. The UI/UX is just so off it is not enhanced and the communication between user and admin on the chat is not even working so i fixed that chat and fixed the UI/UX still have a fractured arms overall it looks good but guess what? still our grade is 5.0 what a experience..
+​Note: Since the incident makes my record to this subject is high at risk of failing luckily the third year student is also having a same position as I am have this system. I significantly fixed the UI/UX and debugged the non-functional user-admin chat feature in just a week of deadline and will present to the professor before the exam while my arm was still fractured. Despite the heavy improvements, the project still failed to pass the professor's criteria. It was a critical learning experience in code review, troubleshooting, and handling project adversity. But still I seen my potential and become quiet about it
 
-Overall Experience
+​Overall Experience and Key Learnings
 
-Notes
-Making this web applications at first makes me wonder how am I going to do this. the frustrations I had on my mind when I cannot debug
-a simple problem but as the time goes by it makes it easier for me to debug it. And searching for different kinds of algorithms is so hard but now it is manageable.
+​Developing these web applications initially presented significant challenges. I distinctly recall the frustrations of not being able to debug seemingly simple problems. Over time, however, my debugging skills improved immensely. Similarly, what started as a difficult task—searching for and implementing various algorithms—has now become manageable and straightforward.
 
-DOCUMENTED PICTURE ON THIS SYSTEM COMMING SOON SO BUSY!!!
-
-
+​DOCUMENTED PICTURES ON THIS SYSTEM COMING SOON - BUSY!
