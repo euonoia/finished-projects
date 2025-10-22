@@ -1,6 +1,6 @@
 ALL MY PROJECTS
 Ken Española
-this all my projects on my college days which is where my skill get enhanced as a web developer and many more..
+this all my projects on my college days which is where my skill get enhanced as a web developer and become a Software Engineer!!
 
 
 Functionality
